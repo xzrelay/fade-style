@@ -1,11 +1,9 @@
 <?php
 /*
 Plugin Name: Fade Style
-Plugin URI: https://oss.randomsense.jp/fade-style/
-Description: Adds smooth fade-in effects to images on your WordPress site
+Description: Adds smooth fade-in effects to images on site posts and pages.
 Version: 1.0
-Author: RandomSense
-Author URI: https://oss.randomsense.jp/
+Author: xzrelay
 License: GPLv2 or Later
 Text Domain: fade-style
 Requires at least: 6.2
